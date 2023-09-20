@@ -82,7 +82,7 @@ body {
   }
   
   .main-btn {
-    background-color: #65DAF9;
+    background-color: #65f9a3;
     color: #FFF;
     text-transform: uppercase;
     width: 200px;
@@ -97,11 +97,11 @@ body {
     text-decoration: none;
     color: #FFF;
     background-color: transparent;
-    border-color: #3EC1D5;
+    border-color: #65f9a3;
   }
   
   .carousel-indicators .active {
-    background-color: #65DAF9;
+    background-color: #65f9a3;
   }
   
   /* Sobre a empresa */
